@@ -113,7 +113,7 @@ namespace MethodsWithLoopsAndConditionals
         }
         public static void Methods8()
         {
-            Console.WriteLine("Please picka number: ");
+            Console.WriteLine("Please pick a number: ");
             int x = int.Parse(Console.ReadLine());
 
             for (int y = 1; y <= 12; y++)
